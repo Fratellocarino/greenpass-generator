@@ -26,7 +26,7 @@ DATA = {
                     "sd": float("inf"),
                     "ma": "ORG-100030215",
                     "vp": "1119349007",
-                    "dt": "2021-06-11",
+                    "dt": "2021-14-11",
                     "co": "DE",
                     "ci": "420_69",
                     "mp": "EU/1/20/1528",
@@ -35,10 +35,10 @@ DATA = {
                 }
             ],
             "nam": {
-                "fnt": "Goebbels",
-                "fn": "Goebbels",
-                "gnt": "Paul Joseph",
-                "gn": "Paul Joseph"
+                "fnt": "Casula",
+                "fn": "Casula",
+                "gnt": "Francesco",
+                "gn": "Francesco"
             },
             "ver": "1.0.0",
             "dob": "1897-10-29"
